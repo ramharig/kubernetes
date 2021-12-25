@@ -85,7 +85,7 @@ For the above above command, you might see validation failed error initially whe
 
 ### 11. To connect to the master
 ```sh
-ssh admin@api.javahome.in
+ssh ubuntu@api.javahome.in
 ```
 # Destroy the kubernetes cluster
 ```sh
